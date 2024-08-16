@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+*{
+    
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+#blahblah{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.interstellar-jpg{
+    border:5px solid white;
+    width: 100%;
+}
+p{
+    margin: 0;
+    text-align: center;
+}
